@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+  
+  <?php include 'botdetect.php'; ?>
+  <?php if ($robot) { include 'botmeta.php'; } else { include 'meta.php'; } ?> 
+	      
+  <link rel="stylesheet" type="text/css" href="obg.css" media="screen" title="Peak District Pub" />  
+
+  <script type="text/javascript" src="bookmark.js"></script>
+
+</head>
+
+<body>
+
+<?php if ($robot) { include 'botheader.php'; } else { include 'header.php'; } ?> 
+
+<div id="wrap">
+
+   <img style="width: 760px; height: 160px;" id="frontphoto" src="http://ethfilter.sourceforge.net/www.peakparkpub.co.uk/PICTURES/banner.jpg" alt="" />   
+ 
+   <?php include 'lpanel.php'; ?>
+
+   <div id="contenttitle">
+     <div class="header">Dining at The Old Bowling Green</div>
+   </div>
+
+   <div id="content" align="justify">
+
+      Our menu is extensive and features fresh produce from local suppliers where possible. "Chef's Specials" change daily and lists starters, main courses
+      <div class="img"> <img src="http://ethfilter.sourceforge.net/www.peakparkpub.co.uk/PICTURES/dining.jpg" width="197" height="140" alt="" title="" /> </div>
+       
+      and puddings - all of which are home made.
+      All meat products are supplied fresh from local farmers/butchers - including John Hancock who supplies his Gold Medal black pudding and sausages.
+      We offer a large choice of fish and homemade vegetarian dishes too. Many receipes are unique to the "Green", including our popular casseroles and pies.
+      Fresh vegetables are supplied daily.
+       
+      <p> Prices range from &pound;8 to &pound;17 for main courses and from &pound;2.95 to &pound;5 for starters and puddings. </p>
+      <p><hr style="width: 100%; height: 8px;"> </p>
+      <p> <big><b>Sunday Lunch </b></big></p>
+     
+      We offer a traditional roast lunch with all the trimmings, and a more casual menu too"
+      
+    </div>
+
+    <?php include 'rpanel.php'; ?>
+  
+    <?php include 'bottommenu.php'; ?>
+ 
+</div>
+
+</body>
+</html>
