@@ -35,7 +35,8 @@
        Well behaved children are welcome to dine until 8 p.m (a children's menu is available until 7:30 p.m.)
        We regret that we do not have facilities for babies.
        <p></p> 
-       For Table reservations, please ring David or Marilyn Bentley on <big>01629 650219</big>
+       For Table reservations, please ring David or Marilyn Bentley on <big>01629 650219</big> or e-mail us at
+       <a href="mailto:peakpark.pub@btinternet.com">peakpark.pub@btinternet.com</a>.
     </div>  
 
     <?php include 'rpanel.php'; ?>
