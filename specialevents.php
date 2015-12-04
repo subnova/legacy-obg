@@ -28,7 +28,25 @@
 
    <div id="content">
 
-      <p></p> <hr style="width: 100%; height: 8px;">
+   <h2 class="opening-hours-heading">Festive Opening Hours 2015-16</h2>
+
+   <span class="opening-hours-heading">December:</span>
+   <dl class="festive-opening">
+    <dt>24th</dt><dd>Bar &amp; Meals as usual</dd>
+    <dt>25th</dt><dd>Just Bar from 12 noon to 2.30pm</dd>
+    <dt>26th</dt><dd>Just Bar from 7.30pm<br/>Allan's Christmas Quiz from 9pm - all welcome</dd>
+    <dt>27th</dt><dd>Just Bar from 12 noon</dt>
+    <dt>28th</dt><dd>Closed</dd>
+    <dt>29th</dt><dd>Closed</dd>
+    <dt>30th</dt><dd>Just Bar from 7pm<br/>Shaun's Music Quiz from 8pm - all welcome</dd>
+    <dt>31st</dt><dd>Just Bar from 7pm</dt>
+   </dl>
+
+   <span class="opening-hours-heading">January:</span>
+   <dl class="festive-opening">
+    <dt>1st</dt><dd>CLOSED ALL DAY</dd>
+    <dt>2nd</dt><dd>Bar &amp; Meals as usual from now on!</dt>
+   </dl>
    
    </div>  
 
