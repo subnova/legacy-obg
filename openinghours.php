@@ -46,7 +46,7 @@
     <dt>2nd</dt><dd>Bar &amp; Meals as usual from now on!</dt>
    </dl>
 
-   <h2 class="opening-hours-heading">Opening Hours 2015</h2>
+   <h2 class="opening-hours-heading">Opening Hours 2016</h2>
 
    <span class="opening-hours-heading">Bar:</span>
    <dl class="opening-hours">
