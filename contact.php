@@ -33,6 +33,8 @@
      <big>Old Bowling Green </big><p></p>
      East Bank, Winster<br> Derbyshire DE4 2DS
      <p> </p> Tel: <span style="font-weight: bold;">01629 650219 </span>
+
+     <p>E-mail: <a href="mailto:peakpark.pub@btinternet.com">peakpark.pub@btinternet.com</a>.
    </div>  
 
     <?php include 'rpanel.php'; ?>
