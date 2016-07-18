@@ -29,7 +29,7 @@
    <div id="content" align="justify">
  
 	 <div id="notice">
-Please note: the kitchen will be closed on Thursday 30th June and also on Saturday 2nd July. Sorry for any inconvenience.
+Please note: the kitchen will be closed on Sunday 31st July and also on Sunday 28th August. Sorry for any inconvenience.
 	 </div>
 
       <?php include 'menu.html'; ?>
