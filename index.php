@@ -27,7 +27,7 @@
    <div id="content" align="justify">
   
 	 <div id="notice">
-           Please note: the kitchen will be closed on Sunday 31st July and also on Sunday 28th August. Sorry for any inconvenience.
+           Please note: the Old Bowling Green will be closing early, at 8pm, on the next two Sundays (7th and 14th of August) due to lack of staff (including a wedding!).  The kitchen will be also be closed on Sunday 28th August. Sorry for any inconvenience.
 	 </div>
 
      <div class="img"> 
