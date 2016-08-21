@@ -29,9 +29,6 @@
    <h2 class="opening-hours-heading">Opening Hours 2016</h2>
 
    <div id="notice">
-   Please note: the Old Bowling Green will be closing early, at 8pm, on the
-   next two Sundays (7th and 14th of August) due to lack of staff (including
-   a wedding!).
    </div>
 
    <p></p>
