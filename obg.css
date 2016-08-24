@@ -82,6 +82,10 @@ h3 {
   height: 140px;
   margin-left: 20px;
 }
+#rpanel .wifi {
+  height: 140px;
+  margin-left: 20px;
+}
 #rpanel .biilogo {
   background: transparent url(logo_biimain.gif) no-repeat scroll left top;
   margin-top: 20px;
@@ -215,7 +219,7 @@ h3 {
   width: 390px;
   background-color: #ffffff;
   font-size: 15px;
-  height: 400px;
+  height: 600px;
   margin-top: 0px;
   overflow: auto;
 }

@@ -59,6 +59,10 @@
      </div>
      <div class="fb-like" data-href="https://www.facebook.com/The-Old-Bowling-Green-187827484640461/?fref=ts" data-layout="box_count" data-action="like" data-show-faces="true" data-share="true"></div>
    </div>
+
+  <div class="wifi">
+    <img src="wifi-free.png" alt="free wifi"/>
+  </div>
   
    </div>
 
