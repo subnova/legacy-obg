@@ -29,7 +29,7 @@
    <div id="content" align="justify">
  
 	 <div id="notice">
-          Please note: The kitchen will be closed on Sunday 28th August and Thursday 22nd, Friday 23rd &amp; Thursday 29th September. Sorry for any inconvenience.
+          Please note: The kitchen will be closed on Thursday 22nd, Friday 23rd &amp; Thursday 29th September. Sorry for any inconvenience.
 	 </div>
 
       <?php include 'menu.html'; ?>
