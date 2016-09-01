@@ -28,8 +28,18 @@
 
    <div id="content">
 
-   <p>Check back for further special events later in the year.</p>
+   <h1>Pub Quiz</h1>
 
+   <h2 class="opening-hours-heading">Wednesday, 7th September at 9pm</h2>
+
+   <p>We will be hosting a pub quiz in support of <i>Prostate Cancer UK</i>.
+   Enter on the night: &pound;2 per person &ndash; up to 4 in a team.  There
+   will be 2 categories of teams: "professional" and casual - so a chance for 
+   everyone. Win a round of drinks.</p>
+
+   <p>Raffle tickets, also in support of <i>Prostate Cancer UK</i>, are on sale
+   at &pound;1 each.  Win &pound;50 to spend at the Old Bowling Green.
+   Winner to be drawn on the night.</p>
    </div>  
 
    <?php include 'rpanel.php'; ?>
