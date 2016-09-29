@@ -27,7 +27,6 @@
    <div id="content" align="justify">
   
 	 <div id="notice">
-           Please note: The kitchen will be closed on Thursday 29th September. Sorry for any inconvenience.
 	 </div>
 
      <div class="img"> 
