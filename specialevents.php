@@ -28,54 +28,35 @@
 
    <div id="content">
  
-   <h1>Allan's Helen's Trust Quiz Night &ndash; 25th October</h1>
+   <h1>Green Club Christmas Party - December 16<sup>th</sup> and 17<sup>th</sup></h1>
 
-   <p>Our Second Helen's Trust Quiz will follow the format of the first one
-      &ndash; Allan's Quiz starts at 7:30pm and we will open the doors at
-      6:30pm; pie & pea supper served from 8:15pm and the quiz then resumes
-      at 9pm to finish around 9:45pm.  As it's a Tuesday we are opening
-      especially and only for the quiz.</p>
+   <p>The Kitchen will be closed and the all tables reserved for the Green Club
+      Christmas Party.</p>
 
-   <p>As per last year, we are donating the entire takings from the evening
-      to Helen's Trust, and we are hoping that someone will come along and
-      say a few words on behalf of this most worthwhile charity &ndash; and
-      the ladies are once again organising their raffle which is already
-      being promoted in the Village Shop.</p>
+   <h1>Winster Guisers - December 16<sup>th</sup> and 17<sup>th</sup> at 10:30pm</h1>
 
-   <p>Last year we hoped for &pound;500 and were stunned when we reached
-      double that &ndash; we have great hopes that we can match it again
-      this year &ndash; <b>but we do need your support.</b></p>
+   <p>The local Mummers troupe will be performing the tale of Brave Prince George and the
+      Black Prince towards the end of the evening.  The performance draws on the local
+      Mumming tradition dating back to the 1860's and is an experience not to be missed.</p> 
 
-   <h2 class="heading">What do you have to do now?</h2>
+   <h1>Christmas General Knowledge Quiz - December 26<sup>th</sup> at 9pm</h1>
 
-   <p>Register your interest as soon as possible and choose your pie either
-      by email or calling in.  Choice of pie:
-      <ul>
-        <li>Chicken &amp; Mushroom</li>
-        <li>Steak in Ale</li>
-        <li>Cheese &amp; Onion</li>
-      </ul>
-      (all served with mushy peas, chips &amp; gravy).</p>
+   <p>Allan's Christmas Quiz returns on Boxing day.  Come join the fun and test
+      your general knowledge whilst enjoying a few drinks and cozy fire.  Entry
+      to the quiz is &pound;1 per person (with teams of up to four)
+      with all proceeds going to charity.</p>
 
-   <p>If your register by email it would be helpful if you called in and
-      paid your &pound;5 per head before the night.</p>
+   <p>The Bar will be open from 7pm whilst the Kitchen will be closed.</p>
 
-   <p>If you just want to come to the quiz without the supper you are very
-      welcome &ndash; it's still a fiver though!</p>
+   <h1>Christmas Music Quiz - December 28<sup>th</sup> at 8pm</h1>
 
-   <p>And &ndash; if you cannot come along but wish to support us please
-      feel free to drop in a donation.</p>
+   <p>Shaun's Music Quiz will test your knowledge of all things musical, starting
+      with the 50's and running through to the Music in this year's Christmas Adverts.
+      As with Allan's Christmas Quiz, entry is &pound;1 per person with teams of 
+      up to four and all the proceeds
+      going to charity.</p>
 
-   <p>As per last year we will suspend Green Club Prices on the night too.</p>
-
-   <p>Staff who come in have volunteered their time &ndash; please do support
-      us.  We are offering places to our Green Club first and only if we don't
-      fill up will we open it up to all comers.</p>
-
-   <p>A huge thank you to Allan for once again preparing the quiz.  Team of up
-      to four will be allowed, and you may bring a guest.</p>
-
-   <p>Look forward to seeing you on the night.</p>
+   <p>The Bar will be open from 7pm whilst the Kitchen will be closed.</d>
 
    </div>  
 

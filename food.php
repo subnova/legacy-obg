@@ -29,6 +29,9 @@
    <div id="content" align="justify">
  
 	 <div id="notice">
+         Please see our <a href="openinghours.html">Opening Hours</a> for details of when we're open
+         over the festive period and <a href="specialevents.html">Special Events</a> for details of
+         what is going on.
 	 </div>
 
       <?php include 'menu.html'; ?>
