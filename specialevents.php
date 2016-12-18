@@ -28,17 +28,6 @@
 
    <div id="content">
  
-   <h1>Green Club Christmas Party - December 16<sup>th</sup> and 17<sup>th</sup></h1>
-
-   <p>The Kitchen will be closed and the all tables reserved for the Green Club
-      Christmas Party.</p>
-
-   <h1>Winster Guisers - December 16<sup>th</sup> and 17<sup>th</sup> at 10:30pm</h1>
-
-   <p>The local Mummers troupe will be performing the tale of Brave Prince George and the
-      Black Prince towards the end of the evening.  The performance draws on the local
-      Mumming tradition dating back to the 1860's and is an experience not to be missed.</p> 
-
    <h1>Christmas General Knowledge Quiz - December 26<sup>th</sup> at 9pm</h1>
 
    <p>Allan's Christmas Quiz returns on Boxing day.  Come join the fun and test
