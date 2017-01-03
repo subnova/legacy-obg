@@ -27,6 +27,7 @@
    <div id="content" align="justify">
   
 	 <div id="notice">
+         Green club memberships for 2016 have now expired.  Please visit the bar to renew for 2017!
 	 </div>
 
      <div class="img"> 
