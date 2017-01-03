@@ -28,25 +28,6 @@
 
    <div id="content">
  
-   <h1>Christmas General Knowledge Quiz - December 26<sup>th</sup> at 9pm</h1>
-
-   <p>Allan's Christmas Quiz returns on Boxing day.  Come join the fun and test
-      your general knowledge whilst enjoying a few drinks and cozy fire.  Entry
-      to the quiz is &pound;1 per person (with teams of up to four)
-      with all proceeds going to charity.</p>
-
-   <p>The Bar will be open from 7pm whilst the Kitchen will be closed.</p>
-
-   <h1>Christmas Music Quiz - December 28<sup>th</sup> at 8pm</h1>
-
-   <p>Shaun's Music Quiz will test your knowledge of all things musical, starting
-      with the 50's and running through to the Music in this year's Christmas Adverts.
-      As with Allan's Christmas Quiz, entry is &pound;1 per person with teams of 
-      up to four and all the proceeds
-      going to charity.</p>
-
-   <p>The Bar will be open from 7pm whilst the Kitchen will be closed.</d>
-
    </div>  
 
    <?php include 'rpanel.php'; ?>
