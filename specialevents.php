@@ -27,7 +27,7 @@
    <div id="contenttitle"><div class="header">Special Events</div></div>
 
    <div id="content">
- 
+   Check back for special events later in the year. 
    </div>  
 
    <?php include 'rpanel.php'; ?>

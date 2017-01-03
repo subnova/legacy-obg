@@ -26,7 +26,7 @@
 
    <div id="content">
 
-   <h2 class="opening-hours-heading">Opening Hours 2016</h2>
+   <h2 class="opening-hours-heading">Opening Hours 2017</h2>
 
    <div id="notice">
    </div>
