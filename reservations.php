@@ -28,6 +28,10 @@
 
  <div id="content">
 
+        <div id="notice">
+         Please note: the kitchen will be closed on Saturday 4th February. The bar will be open as usual.  Apologies for any inconvenience caused.
+         </div>
+
     <div class="img"> 
        <img src="reservations.jpg" width="197" height="140" alt="" title="" /> </div>
        Table reservations are recommended for Friday and Saturday evenings and during busy periods. 
@@ -36,7 +40,8 @@
        We regret that we do not have facilities for babies.
        <p></p> 
        For Table reservations, please ring David or Marilyn Bentley on <big>01629 650219</big> or e-mail us at
-       <a href="mailto:peakpark.pub@btinternet.com">peakpark.pub@btinternet.com</a>.
+       <a href="mailto:peakpark.pub@btinternet.com">peakpark.pub@btinternet.com</a>.  Please ring when making
+       reservations for the same day as e-mail is not constantly monitored.
     </div>  
 
     <?php include 'rpanel.php'; ?>

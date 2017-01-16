@@ -27,7 +27,7 @@
    <div id="content" align="justify">
   
 	 <div id="notice">
-         Green club memberships for 2016 have now expired.  Please visit the bar to renew for 2017!
+         Please note: the kitchen will be closed on Saturday 4th February. The bar will be open as usual.  Apologies for any inconvenience caused.
 	 </div>
 
      <div class="img"> 
