@@ -34,7 +34,7 @@
      East Bank, Winster<br> Derbyshire DE4 2DS
      <p> </p> Tel: <span style="font-weight: bold;">01629 650219 </span>
 
-     <p>E-mail: <a href="mailto:peakpark.pub@btinternet.com">peakpark.pub@btinternet.com</a>.
+     <p>E-mail: <a href="mailto:peakparkpub@gmail.com">peakparkpub@gmail.com</a>.
    </div>  
 
     <?php include 'rpanel.php'; ?>

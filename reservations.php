@@ -40,7 +40,7 @@
        We regret that we do not have facilities for babies.
        <p></p> 
        For Table reservations, please ring David or Marilyn Bentley on <big>01629 650219</big> or e-mail us at
-       <a href="mailto:peakpark.pub@btinternet.com">peakpark.pub@btinternet.com</a>.  Please ring when making
+       <a href="mailto:peakparkpub@gmail.com">peakparkpub@gmail.com</a>.  Please ring when making
        reservations for the same day as e-mail is not constantly monitored.
     </div>  
 
