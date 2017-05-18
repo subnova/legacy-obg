@@ -29,7 +29,6 @@
  <div id="content">
 
         <div id="notice">
-         Please note: the kitchen will be closed on Saturday 4th February. The bar will be open as usual.  Apologies for any inconvenience caused.
          </div>
 
     <div class="img"> 
