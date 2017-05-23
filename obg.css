@@ -306,3 +306,7 @@ dd {
 .festive-opening {
 
 }
+
+table caption i {
+  font-weight: normal;
+}
