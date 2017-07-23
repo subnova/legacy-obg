@@ -29,8 +29,6 @@
  <div id="content">
 
         <div id="notice">
-           Our Kitchen will be closed for the week of Winster Wakes, starting 26th June, and the 6th July.
-           Following lunch on Sunday 25th the kitchen will next open on Friday 7th July.
          </div>
 
     <div class="img"> 
