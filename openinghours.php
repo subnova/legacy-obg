@@ -41,7 +41,7 @@
     <dt>Thursday</dt><dd>6pm - 11pm</dd>
     <dt>Friday</dt><dd>6pm - 11.45pm</dd>
     <dt>Saturday</dt><dd>6pm - 11.45pm</dd>
-    <dt>Sunday</dt><dd>12 noon to 11pm</dd>
+    <dt>Sunday</dt><dd>12 noon to 8pm</dd>
    </dl>
 
    <span class="opening-hours-heading">Kitchen:</span>
