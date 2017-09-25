@@ -27,6 +27,7 @@
    <div id="content" align="justify">
   
 	 <div id="notice">
+Our kitchen will be closed between September 28th and 1st October.  The kitchen will also be closed for the whole of November.  Sorry for any inconvenience.
 	 </div>
 
      <div class="img"> 
