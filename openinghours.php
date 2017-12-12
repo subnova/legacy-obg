@@ -38,7 +38,7 @@
     <dt>December 24<sup>th</sup></dt><dd>Lunch Meals 12.30 &ndash; 2.30pm<br>
                                          Bar 12 noon to 11pm</dd>
     <dt>December 25<sup>th</sup></dt><dd>Just Bar 12 noon &ndash; 2.30pm</dd>
-    <dt>December 26<sup>th</sup></dt><dd>Just Bar from 7pm &ndash; then <b>Allan's Music Quiz from 9pm</b></dd>
+    <dt>December 26<sup>th</sup></dt><dd>Just Bar from 7pm &ndash; then <b>Allan's General Knowledge Quiz from 9pm</b></dd>
     <dt>December 27<sup>th</sup></dt><dd>Bar from 6pm</dd>
     <dt>December 28<sup>th</sup></dt><dd>Bar from 6pm<br>
                                          Meals 6pm to 7.30pm  &ndash; then <b>Shaun's Music Quiz from 8.30pm</b></dd>
