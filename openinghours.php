@@ -33,24 +33,7 @@
 
    <p></p>
 
-   <span class="opening-hours-heading">Festive Opening Times:</span>
-   <dl class="opening-hours">
-    <dt>December 24<sup>th</sup></dt><dd>Lunch Meals 12.30 &ndash; 2.30pm<br>
-                                         Bar 12 noon to 11pm</dd>
-    <dt>December 25<sup>th</sup></dt><dd>Just Bar 12 noon &ndash; 2.30pm</dd>
-    <dt>December 26<sup>th</sup></dt><dd>Just Bar from 7pm &ndash; then <b>Allan's General Knowledge Quiz from 9pm</b></dd>
-    <dt>December 27<sup>th</sup></dt><dd>Bar from 6pm</dd>
-    <dt>December 28<sup>th</sup></dt><dd>Bar from 6pm<br>
-                                         Meals 6pm to 7.30pm  &ndash; then <b>Shaun's Music Quiz from 8.30pm</b></dd>
-    <dt>December 29<sup>th</sup></dt><dd>Bar &amp; Meals from 6pm</dd>
-    <dt>December 30<sup>th</sup></dt><dd>Bar &amp; Meals from 6pm</dd>
-    <dt>December 31<sup>st</sup></dt><dd>Lunch Meals 12.30 &ndash; 2.30pm<br>
-                                         Bar 12 noon to 4pm<br>
-                                         Bar 7pm to Late</dd>
-    <dt>January 1<sup>st</sup></dt><dd>CLOSED &ndash; <i>Sorry...</i></dd>
-   </dl>
-
-   <span class="opening-hours-heading">Normal opening hours for the Bar:</span>
+   <span class="opening-hours-heading">Opening hours for the Bar:</span>
    <dl class="opening-hours">
     <dt>Monday</dt><dd>Closed</dd>
     <dt>Tuesday</dt><dd>Closed</dd>
@@ -61,7 +44,7 @@
     <dt>Sunday</dt><dd>12 noon to 8pm</dd>
    </dl>
 
-   <span class="opening-hours-heading">Normal opening hours for the Kitchen:</span>
+   <span class="opening-hours-heading">Opening hours for the Kitchen:</span>
    <dl class="opening-hours">
     <dt>Thursday to Saturday</dt><dd>6pm - 8.30pm</dd>
     <dt>Sunday</dt><dd>12.30pm - 2.30pm</dt>
