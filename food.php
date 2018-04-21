@@ -29,6 +29,7 @@
    <div id="content" align="justify">
  
 	 <div id="notice">
+Sorry, but our Kitchen is closed on the evening of Thursday 26th April.
 	 </div>
 
       <?php include 'menu.html'; ?>
