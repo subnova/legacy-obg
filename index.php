@@ -27,7 +27,6 @@
    <div id="content" align="justify">
   
 	 <div id="notice">
-Sorry, but our kitchen is closed on Thursday, 26th April.
 	 </div>
 
      <div class="img"> 
