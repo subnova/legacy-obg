@@ -27,6 +27,7 @@
    <div id="content" align="justify">
   
 	 <div id="notice">
+Due to Wakes Week - Kitchen closed Thursday 28th &amp; Saturday 30th June
 	 </div>
 
      <div class="img"> 
