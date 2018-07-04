@@ -27,11 +27,7 @@
    <div id="contenttitle"><div class="header">Special Events</div></div>
 
    <div id="content">
-   <ul>
-     <li><b>Monday 25th June</b> -  Bar open from 6pm for Cycle Race up East Bank</li>
-     <li><b>Tuesday 26th June</b> - Bar open from 7.30pm for Allan's Charity Quiz @ 9pm</li>
-     <li><b>Thursday 28th June</b> - Barbeque outside at 6.30pm &amp; Shaun's Music Quiz @ 9pm</li>
-   </ul>
+   Check back for special events later in the year. 
    </div>  
 
    <?php include 'rpanel.php'; ?>
