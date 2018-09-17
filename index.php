@@ -27,7 +27,7 @@
    <div id="content" align="justify">
   
 	 <div id="notice">
-Sorry, but the Kitchen will be closed on Saturday 8th September &amp; Sunday 9th September.
+Sorry, but the Kitchen will be closed from Thursday 27th September to Sunday 30th September.
 	 </div>
 
      <div class="img"> 
