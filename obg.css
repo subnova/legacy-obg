@@ -9,6 +9,12 @@ body {
   background-color: yellow;
   text-align: center;
 }
+#biggroups {
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+  color: green;
+}
 #wrap {
   margin: 0 auto;
   background: #ffffff none repeat scroll 0%;
@@ -310,3 +316,13 @@ dd {
 table caption i {
   font-weight: normal;
 }
+
+div.quiz {
+  font-weight: bold;
+  text-align: center;
+  font-size: bigger;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+

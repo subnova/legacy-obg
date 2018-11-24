@@ -29,9 +29,11 @@
    <div id="content" align="justify">
  
 	 <div id="notice">
-Sorry, but the Kitchen will be closed from Thursday 8th November to Thursday 22nd
- November inclusive.
 	 </div>
+
+      <div id="biggroups">
+        Sorry, but we're unable to cater for large parties.
+      </div>
 
       <?php include 'menu.html'; ?>
       
