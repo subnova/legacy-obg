@@ -29,7 +29,6 @@
    <div id="content" align="justify">
  
 	 <div id="notice">
-Sorry, the Kitchen will be closed from the 14th February to the 17th February inclusive.
 	 </div>
 
       <div id="biggroups">
